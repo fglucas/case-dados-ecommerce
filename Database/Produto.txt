@@ -1,0 +1,371 @@
+cdProduto|Desc Produto|Quantidade em estoque|Desc. Produto2|Dim_Produtos|Categorias
+1825|abajur|7|Abajur|Abajur|Casa e Decoração
+1924|abelha rainha|6|Abelha Rainha|Abelha Rainha|Agropecuária
+1462|academia|4|Academia|Academia|Fitness
+1260|airsoft|4|Airsoft|Airsoft|Esportes
+1999|alcoo em gel|10|Alcoo Em Gel|Álcool em Gel|Limpeza
+1700|all star|3|All Star|Tênis All Star|Calçados
+1765|all star cano alto|7|All Star Cano Alto|Tênis All Star Cano Alto|Calçados
+1638|alteresde musculacao|2|Alteresde Musculacao|Alteres de Musculação|Fitness
+1696|angus|6|Angus|Angus|Alimentação
+1780|anilhas|10|Anilhas|Anilhas|Fitness
+1899|anilhas musculacao|6|Anilhas Musculacao|Anilhas de Musculação|Fitness
+1906|aparador|10|Aparador|Aparador|Casa e Decoração
+1592|apple watch|8|Apple Watch|Apple Watch|Eletrônicos
+1256|armário de cozinha|2|Armário De Cozinha|Armário de Cozinha|Móveis
+1727|arroz|7|Arroz|Arroz|Alimentação
+1419|bacalhau|1|Bacalhau|Bacalhau|Alimentação
+1383|balança|10|Balança|Balança|Casa e Decoração
+1366|balança precisão|6|Balança Precisão|Balança de Precisão|Casa e Decoração
+1903|barbante barroco|8|Barbante Barroco|Barbante Barroco|Casa e Decoração
+1764|barra de chocolate|7|Barra De Chocolate|Chocolate em Barra|Alimentação
+1758|batman|3|Batman|Batman|Brinquedos
+1343|bebedouro galinha|5|Bebedouro Galinha|Bebedouro para Galinha|Agropecuária
+1660|bebedouro para galinhas|4|Bebedouro Para Galinhas|Bebedouro para Galinha|Agropecuária
+1224|beleza na web|6|Beleza Na Web|Produtos de Beleza|Beleza
+1476|biblia|3|Biblia|Bíblia|Livros
+1861|biblia de estudo|4|Biblia De Estudo|Bíblia de Estudo|Livros
+1427|biblia feminina|7|Biblia Feminina|Bíblia Feminina|Livros
+1839|bíblia sagrada|1|Bíblia Sagrada|Bíblia Sagrada|Livros
+1890|bicicleta|6|Bicicleta|Bicicleta|Esportes
+1960|bicicleta aro 29|10|Bicicleta Aro 29|Bicicleta Aro 29|Esportes
+1969|bicicleta eletrica|6|Bicicleta Eletrica|Bicicleta Elétrica|Esportes
+1374|bicicleta ergometrica|3|Bicicleta Ergometrica|Bicicleta Ergométrica|Fitness
+1655|bicicleta motorizada|4|Bicicleta Motorizada|Bicicleta Motorizada|Veículos
+1241|bola|1|Bola|Bola|Esportes
+1597|boris feminino|7|Boris Feminino|Boris Feminino|Roupas
+1832|borrifador pressao|8|Borrifador Pressao|Borrifador de Pressão|Casa e Decoração
+1997|bota feminina|8|Bota Feminina|Bota Feminina|Calçados
+1527|botas femininas|2|Botas Femininas|Botas Femininas|Calçados
+1332|bruna tavares|9|Bruna Tavares|Produtos Bruna Tavares|Beleza
+1778|cabeceira casal|3|Cabeceira Casal|Cabeceira de Casal|Móveis
+1510|cabelo humano|10|Cabelo Humano|Cabelo Humano|Beleza
+1844|cadeira|8|Cadeira|Cadeira|Móveis
+1248|cadeira escritorio|2|Cadeira Escritorio|Cadeira de Escritório|Móveis
+1742|cadeira gamer|10|Cadeira Gamer|Cadeira Gamer|Móveis
+1717|cadeira giratoria|7|Cadeira Giratoria|Cadeira Giratória|Móveis
+1590|cadeiras|8|Cadeiras|Cadeiras|Móveis
+1371|café|3|Cafe|Café|Alimentos
+1602|cafe racer|8|Cafe Racer|Café Racer|Alimentos
+1988|cafeteira|9|Cafeteira|Cafeteira|Eletrodomésticos
+1748|cafeteira eletrica|9|Cafeteira Eletrica|Cafeteira Elétrica|Eletrodomésticos
+1734|cafeteira expresso|6|Cafeteira Expresso|Cafeteira Expresso|Eletrodomésticos
+1440|caixa abelha|5|Caixa Abelha|Caixa para Abelha|Agropecuária
+1913|caixa de ferramentas|4|Caixa De Ferramentas|Caixa de Ferramentas|Ferramentas
+1830|caixa organizadora|3|Caixa Organizadora|Caixa Organizadora|Casa e Decoração
+1878|caixa para abelha jatai|2|Caixa Para Abelha Jatai|Caixa para Abelha Jataí|Agropecuária
+1858|cama box casal|9|Cama Box Casal|Cama Box Casal|Móveis
+1663|cama infantil|2|Cama Infantil|Cama Infantil|Móveis
+1524|caneleira peso|3|Caneleira Peso|Caneleira com Peso|Fitness
+1459|canivete|8|Canivete|Canivete|Ferramentas
+1421|capacete|8|Capacete|Capacete|Segurança
+1806|capacete feminino|7|Capacete Feminino|Capacete Feminino|Segurança
+1588|capacete ls2|6|Capacete Ls2|Capacete LS2|Segurança
+1287|capacete masculino|4|Capacete Masculino|Capacete Masculino|Segurança
+1269|capsulas dolce gusto|7|Capsulas Dolce Gusto|Cápsulas Dolce Gusto|Alimentação
+1847|capsulas nespresso|4|Capsulas Nespresso|Cápsulas Nespresso|Alimentação
+1724|carregador portatil|1|Carregador Portatil|Carregador Portátil|Eletrônicos
+1816|carros|2|Carros|Carros|Veículos
+1447|celular samsung|6|Celular Samsung|Smartphone Samsung|Eletrônicos
+1823|celular xiaomin|8|Celular Xiaomin|Smartphone Xiaomi|Eletrônicos
+1470|celulares|8|Celulares|Smartphone|Eletrônicos
+1698|cesta básica|1|Cesta Básica|Cesta Básica|Alimentação
+1607|cesta de chocolate|9|Cesta De Chocolate|Cesta de Chocolate|Alimentação
+1244|chapa lanches|7|Chapa Lanches|Chapa para Lanches|Eletrodomésticos
+1385|chocolate|9|Chocolate|Chocolate|Alimentação
+1328|churrasqueira|6|Churrasqueira|Churrasqueira|Eletrodomésticos
+1358|churrasqueira eletrica|7|Churrasqueira Eletrica|Churrasqueira Elétrica|Eletrodomésticos
+1494|chuveiro|10|Chuveiro|Chuveiro|Casa e Decoração
+1815|chuveiro eletrico|10|Chuveiro Eletrico|Chuveiro Elétrico|Casa e Decoração
+1320|chuveiro lorenzetti|8|Chuveiro Lorenzetti|Chuveiro Lorenzetti|Casa e Decoração
+1449|cloth myth|6|Cloth Myth|Cloth Myth|Brinquedos
+1286|cocha de casal|7|Cocha De Casal|Colcha de Casal|Casa e Decoração
+1856|cocha de solteiro|1|Cocha De Solteiro|Colcha de Solteiro|Casa e Decoração
+1870|cocha queen|4|Cocha Queen|Colcha Queen|Casa e Decoração
+1677|coisas de bebe|5|Coisas De Bebe|Produtos para Bebê|Bebês
+1322|coisas de cozinha|6|Coisas De Cozinha|Produtos de Cozinha|Casa e Decoração
+1461|coisas para bebe|9|Coisas Para Bebe|Produtos para Bebê|Bebês
+1926|colchonete academia|7|Colchonete Academia|Colchonete para Academia|Fitness
+1661|comedouro automatico|3|Comedouro Automatico|Comedouro Automático|Pet
+1675|compressor ar|2|Compressor Ar|Compressor de Ar|Ferramentas
+1533|compressor pintura|1|Compressor Pintura|Compressor para Pintura|Ferramentas
+1356|computador|3|Computador|Computador|Eletrônicos
+1453|computador completo|5|Computador Completo|Computador Completo|Eletrônicos
+1845|computador gamer|2|Computador Gamer|Computador Gamer|Eletrônicos
+1391|confeitaria|2|Confeitaria|Confeitaria|Alimentação
+1846|corda de pular|6|Corda De Pular|Corda de Pular|Fitness
+1380|cordeiro|1|Cordeiro|Cordeiro|Alimentação
+1439|corta vento|2|Corta Vento|Corta Vento|Roupas
+1452|cortina blackout|2|Cortina Blackout|Cortina Blackout|Casa e Decoração
+1963|cortinas sala|7|Cortinas Sala|Cortinas para Sala|Casa e Decoração
+1254|cpu|9|Cpu|CPU|Eletrônicos
+1916|cpu gamer|5|Cpu Gamer|CPU Gamer|Eletrônicos
+1388|criado mudo|10|Criado Mudo|Criado-mudo|Móveis
+1272|crocs|4|Crocs|Crocs|Calçados
+1776|cuba banheiro|9|Cuba Banheiro|Cuba de Banheiro|Casa e Decoração
+1777|cursos|9|Cursos|Cursos|Livros
+1719|detector metais|8|Detector Metais|Detector de Metais|Eletrônicos
+1901|dolce gusto|1|Dolce Gusto|Máquina Dolce Gusto|Eletrodomésticos
+1600|elastico exercicio|8|Elastico Exercicio|Elástico para Exercício|Fitness
+1702|elastico extensor|3|Elastico Extensor|Elástico Extensor|Fitness
+1360|ensiladeira|2|Ensiladeira|Ensiladeira|Agropecuária
+1902|escada aluminio|10|Escada Aluminio|Escada de Alumínio|Ferramentas
+1852|escrivaninha|7|Escrivaninha|Escrivaninha|Móveis
+1500|esmerilhadeira|10|Esmerilhadeira|Esmerilhadeira|Ferramentas
+1234|espelho|1|Espelho|Espelho|Casa e Decoração
+1251|esteira|7|Esteira|Esteira|Fitness
+1270|esteira eletrica|9|Esteira Eletrica|Esteira Elétrica|Fitness
+1429|faca artesanal|3|Faca Artesanal|Faca Artesanal|Casa e Decoração
+1528|facas|2|Facas|Facas|Casa e Decoração
+1549|facas artesanais|10|Facas Artesanais|Facas Artesanais|Casa e Decoração
+1589|facas militares|10|Facas Militares|Facas Militares|Casa e Decoração
+1274|ferramentas|7|Ferramentas|Ferramentas|Ferramentas
+1936|fonte automotiva|4|Fonte Automotiva|Fonte Automotiva|Veículos
+1789|forma de bolo|3|Forma De Bolo|Forma de Bolo|Casa e Decoração
+1531|forma de ovo pascoa|1|Forma De Ovo Pascoa|Forma de Ovo de Páscoa|Casa e Decoração
+1285|forno eletrico|7|Forno Eletrico|Forno Elétrico|Eletrodomésticos
+1465|fritadeira airfryer|4|Fritadeira Airfryer|Fritadeira Air Fryer|Eletrodomésticos
+1739|fritadeira eletrica|10|Fritadeira Eletrica|Fritadeira Elétrica|Eletrodomésticos
+1989|fruteira|9|Fruteira|Fruteira|Casa e Decoração
+1537|furadeira|7|Furadeira|Furadeira|Ferramentas
+1475|furadeira de bancada|2|Furadeira De Bancada|Furadeira de Bancada|Ferramentas
+1872|furadeira parafusadeira|8|Furadeira Parafusadeira|Furadeira Parafusadeira|Ferramentas
+1512|gabinete|8|Gabinete|Gabinete|Eletrônicos
+1814|gabinete gamer|4|Gabinete Gamer|Gabinete Gamer|Eletrônicos
+1334|galaxy s10|3|Galaxy S10|Smartphone Samsung Galaxy S10|Eletrônicos
+1811|galinha|6|Galinha|Galinha|Agropecuária
+1523|game boy color|10|Game Boy Color|Game Boy Color|Brinquedos
+1690|gel|5|Gel|Gel|Beleza
+1681|gel xed|1|Gel Xed|Gel Xed|Beleza
+1959|geladeira inox|1|Geladeira Inox|Geladeira Inox|Eletrodomésticos
+1768|geladeiras|2|Geladeiras|Geladeira|Eletrodomésticos
+1394|geleia real|5|Geleia Real|Geleia Real|Alimentação
+1646|gerador|4|Gerador|Gerador|Ferramentas
+1881|gerador de energia|5|Gerador De Energia|Gerador de Energia|Ferramentas
+1540|gerador diesel|3|Gerador Diesel|Gerador a Diesel|Ferramentas
+1259|gerador energia|2|Gerador Energia|Gerador de Energia|Ferramentas
+1705|gerador eolico|8|Gerador Eolico|Gerador Eólico|Ferramentas
+1860|gerador gasolina|3|Gerador Gasolina|Gerador a Gasolina|Ferramentas
+1206|grade|7|Grade|Grade|Casa e Decoração
+1732|grade de proteção|5|Grade De Proteção|Grade de Proteção|Segurança
+1937|guarda roupa|9|Guarda Roupa|Guarda-roupa|Móveis
+1923|guarda roupa casal|2|Guarda Roupa Casal|Guarda-roupa de Casal|Móveis
+1250|guarda roupa solteiro|5|Guarda Roupa Solteiro|Guarda-roupa de Solteiro|Móveis
+1484|halter|1|Halter|Halter|Fitness
+1726|halteres|1|Halteres|Halteres|Fitness
+1873|harry potter|5|Harry Potter|Harry Potter|Brinquedos
+1944|hd externo|9|Hd Externo|HD Externo|Eletrônicos
+1365|headset|5|Headset|Headset|Eletrônicos
+1562|headset gamer|4|Headset Gamer|Headset Gamer|Eletrônicos
+1384|homem aranha|8|Homem Aranha|Homem-Aranha|Brinquedos
+1513|impressora|3|Impressora|Impressora|Eletrônicos
+1324|impressora 3d|2|Impressora 3D|Impressora 3D|Eletrônicos
+1586|impressora multifuncional|6|Impressora Multifuncional|Impressora Multifuncional|Eletrônicos
+1517|inversora solda|5|Inversora Solda|Inversora de Solda|Ferramentas
+1561|ipad|3|Ipad|iPad|Eletrônicos
+1849|iphone|9|Iphone|Smartphone iPhone|Eletrônicos
+1399|iphone 11|5|Iphone 11|Smartphone iPhone 11|Eletrônicos
+1341|iphone 11 pro|1|Iphone 11 Pro|Smartphone iPhone 11 Pro|Eletrônicos
+1752|iphone 11 pro max|6|Iphone 11 Pro Max|Smartphone iPhone 11 Pro Max|Eletrônicos
+1542|iphone 6|8|Iphone 6|Smartphone iPhone 6|Eletrônicos
+1859|iphone 6s|1|Iphone 6S|Smartphone iPhone 6S|Eletrônicos
+1309|iphone 7|3|Iphone 7|Smartphone iPhone 7|Eletrônicos
+1352|iphone 7 plus|7|Iphone 7 Plus|Smartphone iPhone 7 Plus|Eletrônicos
+1292|iphone 8|10|Iphone 8|Smartphone iPhone 8|Eletrônicos
+1312|iphone 8 plus|2|Iphone 8 Plus|Smartphone iPhone 8 Plus|Eletrônicos
+1862|iphone x|10|Iphone X|Smartphone iPhone X|Eletrônicos
+1357|iphone xr|10|Iphone Xr|Smartphone iPhone XR|Eletrônicos
+1584|j4 plus|3|J4 Plus|Smartphone Samsung J4 Plus|Eletrônicos
+1826|jogo de panelas|3|Jogo De Panelas|Jogo de Panelas|Casa e Decoração
+1263|jump|7|Jump|Jump|Roupas
+1809|kit anilhas|9|Kit Anilhas|Kit de Anilhas|Fitness
+1564|kit cerca eletrica|4|Kit Cerca Eletrica|Kit Cerca Elétrica|Segurança
+1733|kit ferramentas|3|Kit Ferramentas|Kit de Ferramentas|Ferramentas
+1581|kit halteres|8|Kit Halteres|Kit de Halteres|Fitness
+1725|kit sobrevivencia|9|Kit Sobrevivencia|Kit de Sobrevivência|Esportes
+1344|lampada led|4|Lampada Led|Lâmpada LED|Casa e Decoração
+1539|lava jato|5|Lava Jato|Lava Jato|Eletrodomésticos
+1615|lavadora pressao|5|Lavadora Pressao|Lavadora de Pressão|Eletrodomésticos
+1438|libid gel|5|Libid Gel|Libid Gel|Beleza
+1577|livro|1|Livro|Livro|Livros
+1315|livro infantil|4|Livro Infantil|Livro Infantil|Livros
+1867|lixadeira|8|Lixadeira|Lixadeira|Ferramentas
+1935|lixadeira orbital|9|Lixadeira Orbital|Lixadeira Orbital|Ferramentas
+1362|lojas marisa|1|Lojas Marisa|Produtos Lojas Marisa|Roupas
+1349|luminarias pendentes|9|Luminarias Pendentes|Luminárias Pendentes|Casa e Decoração
+1803|lustre para quarto|6|Lustre Para Quarto|Lustre para Quarto|Casa e Decoração
+1866|lustre para sala|8|Lustre Para Sala|Lustre para Sala|Casa e Decoração
+1227|lustre sala|9|Lustre Sala|Lustre para Sala|Casa e Decoração
+1827|lustres|9|Lustres|Lustre|Casa e Decoração
+1481|lustres cristal|2|Lustres Cristal|Lustre de Cristal|Casa e Decoração
+1804|lustres luminarias|3|Lustres Luminarias|Lustre e Luminárias|Casa e Decoração
+1213|lustres para sala|6|Lustres Para Sala|Lustre para Sala|Casa e Decoração
+1909|macbook|5|Macbook|MacBook|Eletrônicos
+1215|maconha|10|Maconha|Maconha|Outros
+1929|makita|8|Makita|Ferramentas Makita|Ferramentas
+1834|maleta ferramentas|7|Maleta Ferramentas|Maleta de Ferramentas|Ferramentas
+1708|mansao|5|Mansao|Mansão|Outros
+1977|maquina de lavar|1|Maquina De Lavar|Máquina de Lavar|Eletrodomésticos
+1450|máquina de lavar|4|Maquina De Lavar|Máquina de Lavar|Eletrodomésticos
+1426|maquina de solda|6|Maquina De Solda|Máquina de Solda|Ferramentas
+1637|máquina de solda|9|Maquina De Solda|Máquina de Solda|Ferramentas
+1550|marca texto|3|Marca Texto|Marca-texto|Livros
+1888|marmita|8|Marmita|Marmita|Alimentação
+1604|martelete rompedor|9|Martelete Rompedor|Martelete Rompedor|Ferramentas
+1265|marvel legends|9|Marvel Legends|Marvel Legends|Brinquedos
+1337|mascara 3m|10|Mascara 3M|Máscara 3M|Segurança
+1304|mascara n95|3|Mascara N95|Máscara N95|Segurança
+1636|máscara n95|3|Mascara N95|Máscara N95|Segurança
+1678|mascara n95 3m|8|Mascara N95 3M|Máscara N95 3M|Segurança
+1282|mascara n95 pff2|7|Mascara N95 Pff2|Máscara N95 PFF2|Segurança
+1947|mascara pff2|5|Mascara Pff2|Máscara PFF2|Segurança
+1288|mascara proteção respiratória|2|Mascara Proteção Respiratória|Máscara de Proteção Respiratória|Segurança
+1220|mascara respiratoria|7|Mascara Respiratoria|Máscara Respiratória|Segurança
+1958|massinha|2|Massinha|Massinha|Brinquedos
+1970|mesa|10|Mesa|Mesa|Móveis
+1747|mesa de jantar|2|Mesa De Jantar|Mesa de Jantar|Móveis
+1914|mesa escritorio|9|Mesa Escritorio|Mesa de Escritório|Móveis
+1673|mi band 4|4|Mi Band 4|Mi Band 4|Eletrônicos
+1317|militar|1|Militar|Produtos Militares|Outros
+1720|mini gerador|3|Mini Gerador|Mini Gerador|Ferramentas
+1416|misturador de ração|3|Misturador De Ração|Misturador de Ração|Agropecuária
+1741|moedas antigas|6|Moedas Antigas|Moedas Antigas|Outros
+1738|monitor|5|Monitor|Monitor|Eletrônicos
+1851|moto g8 plus|7|Moto G8 Plus|Smartphone Moto G8 Plus|Eletrônicos
+1345|motorola|4|Motorola|Smartphone Motorola|Eletrônicos
+1691|motorola one|3|Motorola One|Smartphone Motorola One|Eletrônicos
+1647|mouse|1|Mouse|Mouse|Eletrônicos
+1305|mouse gamer|10|Mouse Gamer|Mouse Gamer|Eletrônicos
+1850|mouse sem fio|5|Mouse Sem Fio|Mouse sem Fio|Eletrônicos
+1556|multimetro digital|3|Multimetro Digital|Multímetro Digital|Ferramentas
+1822|nelore|9|Nelore|Nelore|Agropecuária
+1658|netbook|8|Netbook|Notebook|Eletrônicos
+1526|noot book|1|Noot Book|Notebook|Eletrônicos
+1207|notbook|4|Notbook|Notebook|Eletrônicos
+1837|notebook|4|Notebook|Notebook|Eletrônicos
+1571|notebook dell|7|Notebook Dell|Notebook Dell|Eletrônicos
+1831|notebook gamer|1|Notebook Gamer|Notebook Gamer|Eletrônicos
+1735|notebook i5|1|Notebook I5|Notebook i5|Eletrônicos
+1377|notebook samsung|2|Notebook Samsung|Notebook Samsung|Eletrônicos
+1875|ordenha|6|Ordenha|Equipamento de Ordenha|Agropecuária
+1268|ordenha leiteira|2|Ordenha Leiteira|Equipamento de Ordenha Leiteira|Agropecuária
+1543|ordenhadeira|10|Ordenhadeira|Ordenhadeira|Agropecuária
+1514|ordenhadeira mecanica|10|Ordenhadeira Mecanica|Ordenhadeira Mecânica|Agropecuária
+1593|ovelha negra|3|Ovelha Negra|Ovelha Negra|Agropecuária
+1838|ovo de pascoa|9|Ovo De Pascoa|Ovo de Páscoa|Alimentação
+1971|ovos de pascoa|8|Ovos De Pascoa|Ovos de Páscoa|Alimentação
+1915|painel|6|Painel|Painel para TV|Móveis
+1922|painel de tv|8|Painel De Tv|Painel para TV|Móveis
+1522|painel para tv|1|Painel Para Tv|Painel para TV|Móveis
+1940|painel tv|10|Painel Tv|Painel para TV|Móveis
+1688|panela|7|Panela|Panela|Casa e Decoração
+1746|panela de pressão|5|Panela De Pressão|Panela de Pressão|Casa e Decoração
+1766|panelas|4|Panelas|Panela|Casa e Decoração
+1515|papel contact|9|Papel Contact|Papel Contact|Livros
+1740|papel de parede|7|Papel De Parede|Papel de Parede|Casa e Decoração
+1728|papel de parede infantil|3|Papel De Parede Infantil|Papel de Parede Infantil|Casa e Decoração
+1625|papel parede|7|Papel Parede|Papel de Parede|Casa e Decoração
+1770|pasta de amendoim|9|Pasta De Amendoim|Pasta de Amendoim|Alimentação
+1709|pc gamer|7|Pc Gamer|PC Gamer|Eletrônicos
+1464|pc gamer completo|9|Pc Gamer Completo|PC Gamer Completo|Eletrônicos
+1934|penteadeira|7|Penteadeira|Penteadeira|Móveis
+1982|penteadeira camarim|6|Penteadeira Camarim|Penteadeira Camarim|Móveis
+1972|pesos musculacao|1|Pesos Musculacao|Pesos para Musculação|Fitness
+1908|pia de banheiro|4|Pia De Banheiro|Pia de Banheiro|Casa e Decoração
+1848|pipoqueira|3|Pipoqueira|Pipoqueira|Eletrodomésticos
+1378|pistolada pintura|7|Pistolada Pintura|Pistola para Pintura|Ferramentas
+1573|placa de video|7|Placa De Video|Placa de Vídeo|Eletrônicos
+1209|politriz|7|Politriz|Politriz|Ferramentas
+1783|politriz automotiva|7|Politriz Automotiva|Politriz Automotiva|Veículos
+1987|poltrona|2|Poltrona|Poltrona|Móveis
+1335|poltronas|10|Poltronas|Poltrona|Móveis
+1342|poltronas decorativas|3|Poltronas Decorativas|Poltrona Decorativa|Móveis
+1996|porta de correr|1|Porta De Correr|Porta de Correr|Casa e Decoração
+1302|porta de madeira|3|Porta De Madeira|Porta de Madeira|Casa e Decoração
+1632|prateleira|4|Prateleira|Prateleira|Móveis
+1786|propolis verde|2|Propolis Verde|Própolis Verde|Alimentação
+1654|protetor facial|5|Protetor Facial|Protetor Facial|Segurança
+1938|protetor facial odontologico|1|Protetor Facial Odontologico|Protetor Facial Odontológico|Segurança
+1411|puff|8|Puff|Puff|Móveis
+1978|pulverizador manual|10|Pulverizador Manual|Pulverizador Manual|Casa e Decoração
+1310|quadros decorativos|9|Quadros Decorativos|Quadros Decorativos|Casa e Decoração
+1396|ração militar|5|Radio Antigo|Rádio Antigo|Eletrônicos
+1879|ração premier|5|Ração Militar|Ração Militar|Alimentação
+1375|radio antigo|6|Ração Premier|Ração Premier|Pet
+1594|redimi note 8|9|Redimi Note 8|Smartphone Redmi Note 8|Eletrônicos
+1953|redimir airdots|6|Redimir Airdots|Fone Redmi AirDots|Eletrônicos
+1920|redimir note 7|1|Redimir Note 7|Smartphone Redmi Note 7|Eletrônicos
+1796|redimir note 8|2|Redimir Note 8|Smartphone Redmi Note 8|Eletrônicos
+1745|redmi note 8|8|Redmi Note 8|Smartphone Redmi Note 8|Eletrônicos
+1566|relogio smartwatch|3|Relogio Smartwatch|Relógio Smartwatch|Eletrônicos
+1575|relógio smartwatch|8|Relógio Smartwatch|Relógio Smartwatch|Eletrônicos
+1359|repetidor wifi|3|Repetidor Wifi|Repetidor Wi-Fi|Eletrônicos
+1840|rocadeira gasolina|10|Rocadeira Gasolina|Roçadeira a Gasolina|Ferramentas
+1662|rolo de treino|9|Rolo De Treino|Rolo de Treino|Fitness
+1723|roteador|6|Roteador|Roteador|Eletrônicos
+1812|roupa feminina|1|Roupa Feminina|Roupa Feminina|Roupas
+1367|roupas|9|Roupas|Roupa|Roupas
+1353|roupas femininas|7|Roupas Femininas|Roupa Feminina|Roupas
+1363|roupas masculinas|7|Roupas Masculinas|Roupa Masculina|Roupas
+1802|sacos para silagem|10|Sacos Para Silagem|Sacos para Silagem|Agropecuária
+1713|salmon|5|Salmon|Salmão|Alimentação
+1630|samsung a10|4|Samsung A10|Smartphone Samsung Galaxy A10|Eletrônicos
+1373|samsung a20|8|Samsung A20|Smartphone Samsung Galaxy A20|Eletrônicos
+1620|samsung a30|2|Samsung A30|Smartphone Samsung Galaxy A30|Eletrônicos
+1405|samsung a50|10|Samsung A50|Smartphone Samsung Galaxy A50|Eletrônicos
+1525|santa fe|3|Santa Fe|Santa Fé|Veículos
+1918|sapateira|8|Sapateira|Sapateira|Móveis
+1595|sapatos femininos|6|Sapatos Femininos|Sapatos Femininos|Calçados
+1567|saraiva|6|Saraiva|Produtos Saraiva|Livros
+1253|secador|10|Secador|Secador|Eletrodomésticos
+1659|secador profissional|9|Secador Profissional|Secador Profissional|Eletrodomésticos
+1751|serra circular|3|Serra Circular|Serra Circular|Ferramentas
+1991|serra marmore|8|Serra Marmore|Serra Mármore|Ferramentas
+1382|serra tico tico|5|Serra Tico Tico|Serra Tico-Tico|Ferramentas
+1255|smartphone|6|Smartphone|Smartphone|Eletrônicos
+1415|smartwatch|6|Smartwatch|Smartwatch|Eletrônicos
+1410|sofa|7|Sofa|Sofá|Móveis
+1275|sofá|4|Sofa Retratil|Sofá Retrátil|Móveis
+1729|sofa retratil|1|Sofá|Sofá|Móveis
+1558|ssd|3|Ssd|SSD|Eletrônicos
+1869|ssd 120gb|1|Ssd 120Gb|SSD 120GB|Eletrônicos
+1507|ssd 240gb|10|Ssd 240Gb|SSD 240GB|Eletrônicos
+1771|super cha sb|1|Super Cha Sb|Super Chá SB|Alimentação
+1722|suporte celular|6|Suporte Celular|Suporte para Celular|Eletrônicos
+1569|suporte notebook|3|Suporte Notebook|Suporte para Notebook|Eletrônicos
+1297|tablet|7|Tablet|Tablet|Eletrônicos
+1749|tablet infantil|8|Tablet Infantil|Tablet Infantil|Eletrônicos
+1491|tablet samsung|7|Tablet Samsung|Tablet Samsung|Eletrônicos
+1631|tapete|1|Tapete|Tapete|Casa e Decoração
+1731|tapete yoga|6|Tapete Yoga|Tapete de Yoga|Fitness
+1283|tapetes sala|7|Tapetes Sala|Tapete para Sala|Casa e Decoração
+1609|teclado|7|Teclado|Teclado|Eletrônicos
+1984|teclado gamer|6|Teclado Gamer|Teclado Gamer|Eletrônicos
+1402|teclado mecanico|1|Teclado Mecanico|Teclado Mecânico|Eletrônicos
+1917|telefone|1|Telefone|Telefone|Eletrônicos
+1325|televisao|4|Televisao|Televisão|Eletrodomésticos
+1318|televisão|2|Televisão|Televisão|Eletrodomésticos
+1532|tenda|9|Tenda|Tenda|Esportes
+1626|tenis nike|6|Tenis Nike|Tênis Nike|Calçados
+1273|the walking dead|1|The Walking Dead|The Walking Dead|Brinquedos
+1570|thera band|9|Thera Band|Thera Band|Fitness
+1644|toca discos|8|Toca Discos|Toca-discos|Eletrodomésticos
+1853|torneira banheiro|1|Torneira Banheiro|Torneira de Banheiro|Casa e Decoração
+1400|transformers|4|Transformers|Transformers|Brinquedos
+1319|triturador de milho|2|Triturador De Milho|Triturador de Milho|Agropecuária
+1919|triturador forrageiro|9|Triturador Forrageiro|Triturador Forrageiro|Agropecuária
+1821|trx|7|Trx|TRX|Fitness
+1551|tv|5|Tv|Televisão|Eletrodomésticos
+1884|tv 32|8|Tv 32|Televisão 32 Polegadas|Eletrodomésticos
+1233|tv 50 polegadas|10|Tv 50 Polegadas|Televisão 50 Polegadas|Eletrodomésticos
+1666|tv smart|2|Tv Smart|Televisão Smart|Eletrodomésticos
+1261|vaso sanitario|7|Vaso Sanitario|Vaso Sanitário|Casa e Decoração
+1891|vinho|6|Vinho|Vinho|Alimentação
+1889|webcam|5|Webcam|Webcam|Eletrônicos
+1961|whey|4|Whey|Whey Protein|Suplementos
+1628|whey isolado|1|Whey Isolado|Whey Protein Isolado|Suplementos
+1311|whey proten|4|Whey Proten|Whey Protein|Suplementos
+1572|whisky|8|Whisky|Whisky|Alimentação
+1855|xiaomi|4|Xiaomi|Smartphone Xiaomi|Eletrônicos
+1296|xiaomu redimir note 7|10|Xiaomu Redimir Note 7|Smartphone Redmi Note 7|Eletrônicos
+1763|xiaomu redimir note 8|4|Xiaomu Redimir Note 8|Smartphone Redmi Note 8|Eletrônicos

@@ -1,0 +1,10 @@
+cdVendedor	Nome Vendedor
+9	Julius
+7	Rochelle
+1	Cris
+4	Drew
+5	Greg
+6	Caruzo
+3	Tonya
+8	Morello
+2	Perigo
