@@ -44,6 +44,6 @@ O **dashboard no Power BI** permite visualizar:
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+   git clone https://github.com/fglucas/case-dados-ecommerce
 
 
